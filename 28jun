@@ -1,0 +1,63 @@
+Terms to test understanding daily
+Var (local and glbal Var)?
+Concatenation?
+How to get string length (.length)
+Explain what is the dot notion?
+-a property is accessed by giving the host object's name, followed by a period (or dot), followed by the property name.
+What is an object in JS ?
+Where do programmers usually count from?
+How to command out in JS?
+How do i take a slice out from a part?
+How do I change case in text?
+How do i increase or decrease by one?
+How do I increase or decrease by more than one?
+How do I call a function?
+When do I need to add ";"? 
+When do I need to add ( )?
+How do I generate random nxumbers and make them whole numbers or to 1 decima place?
+What does console.log mean?
+What is an If else statment?
+What is the arrow function and what does it do?
+Tell me about the compartors and equality operators
+What is a while loop? And what do I have to careful of?
+What are For loops? Can you decribe the syntax?
+What are arrays ? How do I find something in an array?
+How do I add JS to website? Where should I place it?
+What is DOM and what do we use it for?
+How do I select HTML objects with DOM
+** relook at DOM and the separations of concerns
+How do I manipulate text/HTML in JS?
+What are higher order functions?
+How do I play sound on a website?
+How to write a variable with multiple properties
+What is a constructor function? How do I use it?
+What does "this" do?
+How do I use switch statments in JS?
+What are switch statements?
+What is a method?
+What are callbacks? And why do I use them?
+What is jQuery and how do I enable it?
+What is querySelector?
+What is the symbol to use jquery?
+How do I manipulate styles, text, attributes, with jQuery?
+How do I add things using JQuery? Event listener, add/ remove elements
+How do I animate with jQuery?
+What is parseInt?
+What is { "":""}
+What is a nested loop?
+What is memoizaton? How does it work?
+What is a pure function?
+What is a recursive function?
+What is the difference between memoization and caching
+What is the tree recursion algorithm?
+What is a recursive function?
+What is a tree recursion?
+What is the difference between a parameter and an argument?
+What is an arrow function and how do I use it?
+What is dynamic programming?
+What is { } used for?
+What is [ ] used for?
+What is ( ) used for?
+What are parantheses?
+What are arguments?
+Waht is the .includes function?
